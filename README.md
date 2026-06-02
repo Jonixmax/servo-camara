@@ -1,2 +1,0 @@
-# servo-camara
-servo-camara
